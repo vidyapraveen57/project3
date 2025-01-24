@@ -1,0 +1,12 @@
+#section{
+    min-height: 800px;
+    background-image: url(World-Bee-Day-2024-news-1024x696.png);
+    background-size: cover;
+}
+#para{
+    min-height: 500%;
+    padding-top: 18%;
+    font-family: poppins;
+    text-shadow: 2px 2px 6px yellow;
+    margin-left: 10px;
+}

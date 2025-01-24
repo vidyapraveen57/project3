@@ -1,0 +1,443 @@
+
+.inbox{
+   /*background-color: blueviolet;*/
+    min-height: 100px;
+    padding-top: 30px;
+    font-family:Franklin Gothic Heavy;
+    padding-left: 30px;
+}
+.navbar-brand{
+    font-family:Franklin Gothic Heavy;
+    font-size: 35px;
+}
+.inbox1{
+    min-height: 100px;
+    text-align: center;
+    padding-top: 35px;
+}
+.nav-item a:hover{
+    color: orangered;
+    transition: all .5s;
+}
+.inbox1 a{
+    padding: 10px;
+    text-decoration:none ;
+    color: black;
+    font-size: large;
+}
+.inbox1 a:hover{
+    color: orangered;
+    transition: all .5s;
+}
+.inbox2{
+   /*background-color: blueviolet;*/
+    min-height: 100px;
+}
+.inbox2 a{
+   display: flex;
+   justify-content: flex-end;
+   padding-top: 35px;
+}
+.inbox3{
+   /*background-color: blueviolet;*/
+    min-height: 100px;
+}
+.inbox3 a{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 40px;
+}
+.inbox2{
+    position: relative;
+}
+.bi-bag{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    /* position: absolute; */
+    /* top: 30%;
+    left: 70%; */
+    transform: all .5s;
+  
+}
+.bi-bag:hover{
+    color: orangered;
+    transition: all .5s;
+}
+.notify-badge{
+
+    font-size: 1rem;
+    border-radius: 50%;
+    color: rgb(255, 255, 255);
+    background-color: orangered;
+}
+.inbox3{
+    position: relative;
+}
+.bi-person{
+    font-size: 25px;
+    transform: scale(1.2);
+    color: rgb(0, 0, 0);
+    /* position: absolute;
+    top: 28%; */
+    transition: all .5s;
+    
+}
+.bi-person:hover{
+    color: orangered;
+    transition: all .5s;
+}
+.section1{
+    background-color: antiquewhite;
+}
+.inbox4{
+    min-height: 860px;
+   /*background-color: blueviolet;*/
+    padding-top: 250px;
+    padding-left: 30px;
+    text-align: left;
+    margin-right: 20px;
+    font-family: AvantGarde LT Book;
+}
+.inbox4 p{
+    font-size: large;
+    font-family:Eras Medium ITC;
+}
+.inbox4 a{
+    text-decoration: none;
+    color: black;
+    background-color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 40px;
+}
+.inbox4 a:hover{
+    background-color: rgb(67, 39, 39);
+    color: rgb(255, 255, 255);
+    transition: all .5s;
+}
+.bi-amazon{
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    padding-right: 8px;
+}
+.bi-amazon:hover{
+    color: rgb(255, 255, 255);
+    transition: all .5s;
+}
+.inbox5{
+   /*background-color: blueviolet;*/
+    min-height: 700px;
+    transform: translateY(80px);
+    margin-left: 30px;
+}
+.km{
+    box-shadow:15px 15px 25px rgba(0, 0, 0, 0.5);
+}
+.head{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 150px;
+}
+.inbox6{
+    min-height: 150px;
+    /*background-color: blueviolet;*/
+    text-align: center;
+    padding-top: 30px;
+}
+.inbox7{
+   /*background-color: blueviolet;*/
+    min-height: 750px;
+    padding-top: 50px;
+}
+.inbox8{
+    /*background-color: blueviolet;*/
+    min-height: 750px;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: 500;
+}
+.inbox8 h2{
+    font-family:Franklin Gothic Heavy ;
+}
+.inbox8 a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    background-color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 40px;
+}
+.inbox8 a:hover{
+    background-color: rgb(67, 39, 39);
+    color: rgb(255, 255, 255);
+    transition: all .5s;
+}
+.bi-facebook{
+    font-size: 30px;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 10px;
+}
+.bi-facebook:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(67, 39, 39);
+    transition: all .5s;
+    border-radius:50%;
+    width: 60px !important;
+    height: 60px !important;
+ 
+}
+.bi-twitter{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 10px;
+}
+.bi-twitter:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(67, 39, 39);
+    transition: all .5s;
+    border-radius:50%;
+    width: 60px !important;
+    height: 60px !important;
+}
+.bi-instagram{
+    font-size:30px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 10px;
+}
+.bi-instagram:hover{
+    background-color: rgb(67, 39, 39);
+    color: rgb(255, 255, 255);
+    transition: all .5s;
+    border-radius:50%;
+    width: 60px !important;
+    height: 60px !important;
+}
+.line{
+    color: dimgray;
+    width: 80%;
+    border: solid 1px dimgray;
+}
+.inbox9{
+    /*background-color: blueviolet;*/
+    min-height: 900px;
+    padding-top: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.inbox9 p{
+    font-weight: 500;
+}
+.head2{
+    font-family:Franklin Gothic Heavy;
+}
+.inbox9 a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    background-color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 40px;
+}
+.inbox9 a:hover{
+    background-color: rgb(67, 39, 39);
+    color: rgb(255, 255, 255);
+    transition: all .5s;
+}
+.inbox10{
+   /*background-color: blueviolet;*/
+    min-height: 350px;
+    padding-top: 80px;
+}
+.inbox11{
+   /*background-color: blueviolet;*/
+    min-height: 350px;
+    padding-left: 2px;
+    padding-bottom: 90px;
+    padding-top: 80px;
+}
+.section5{
+    background-color: antiquewhite;
+}
+.inbox12{
+   /*background-color: blueviolet;*/
+    min-height: 750px;
+    padding-top: 230px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.inbox12 a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    background-color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 40px;
+}
+.inbox12 a:hover{
+    background-color: rgb(67, 39, 39);
+    color: rgb(255, 255, 255);
+    transition: all .5s;
+}
+.inbox13{
+    background-color: whitesmoke;
+    min-height: 300px;
+    margin-bottom: 25px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 25px;
+}
+.para1{
+    padding-top: 30px;
+}
+.float1{
+    text-align: left;
+    padding-top: 30px;
+}
+.inbox14{
+    background-color: whitesmoke;
+    min-height: 300px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 25px;
+}
+.para1{
+    padding-top: 30px;
+}
+.float1{
+    text-align: left;
+    padding-top: 10px;
+}
+.inbox15{
+   /*background-color: blueviolet;*/
+    min-height: 700px;
+    padding-left: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.inbox16{
+   /*background-color: blueviolet;*/
+    min-height: 700px;
+    padding-top: 210px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.inbox16 a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    background-color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 40px;
+}
+.inbox16 a:hover{
+    background-color: rgb(67, 39, 39);
+    color: rgb(255, 255, 255);
+    transition: all .5s;
+}
+.head3{
+    font-family:Franklin Gothic Heavy;
+}
+.head4{
+    font-family:Franklin Gothic Heavy;
+}
+.inbox16 p{
+    font-weight: 500;
+}
+.inbox12 p{
+    font-weight: 500;
+}
+.navbar-form{
+    width: 100%;
+}
+.section7{
+    background-color: antiquewhite;
+}
+.inbox17{
+    min-height: 600px;
+   /*background-color: blueviolet;*/
+    margin-left: 30px;
+    padding-top: 200px;
+}
+.btn{
+    background-color:  rgb(255, 253, 253);
+    color: black;
+}
+.btn:hover{
+    background-color: rgb(67, 39, 39);
+    color: rgb(255, 255, 255);
+    transition: all .5s;
+}
+.inbox18{
+   /*background-color: blueviolet;*/
+    min-height: 600px;
+    padding-top: 100px;
+}
+.inbox19{
+    /*background-color: blueviolet;*/
+    min-height: 600px;
+    transform: translateX(-150px);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.inbox19 img{
+    width: 120%;
+}
+@media(max-width:576px){
+    .inbox19{
+        transform: translateX(0px);
+    }
+    .inbox19 img{
+        width: 100%;
+    }
+    .inbox7,.inbox4,.inbox9,.inbox15,.inbox16,.inbox12,.inbox17{
+        min-height: 400px;
+    }
+    .inbox9,.inbox16,.inbox12,.inbox17,.inbox4{
+        padding-top: 50PX;
+        padding-bottom: 20px;
+    }
+    .inbox18{
+        padding-top: 0px;
+    }
+    .aa{
+        text-align: center;
+    }
+}
+.section8{
+    background-color: rgb(39, 39, 39);
+}
+.inbox20{
+    min-height: 200px;
+    text-align: center;
+    font-weight: 500px;
+    color: whitesmoke;
+    padding-top: 90px;
+}
